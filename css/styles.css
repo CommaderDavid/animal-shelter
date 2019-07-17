@@ -1,0 +1,18 @@
+.column {
+  width: 250px;
+  float: left;
+}
+
+.tom ul li {
+  color: #ffcc00;
+}
+
+img {
+  width: 100%;
+}
+
+.title {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
