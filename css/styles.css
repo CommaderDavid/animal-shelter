@@ -5,19 +5,27 @@
   float: left;
 }
 
-.tom ul li {
-  color: #ffcc00;
+.column p em {
+  background-color: #ff9900;
 }
 
-.seam ul li {
+.column p strong {
+  color: #0066ff;
+}
+
+.tom ul {
+  color: #cc6600;
+}
+
+.seam ul {
   color: #6b6b47;
 }
 
-.sarah ul li {
+.sarah ul {
   color: #cc0000;
 }
 
-.noodle ul li {
+.noodle ul {
   color: #006bb3;
 }
 
@@ -29,4 +37,8 @@ img {
   text-align: center;
   font-size: 25px;
   font-weight: bold;
+}
+
+h1 {
+  color: #006622;
 }
