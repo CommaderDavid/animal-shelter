@@ -1,10 +1,16 @@
 .column {
+  border: 5px solid #009900;
+  padding: 3px;
   width: 250px;
   float: left;
 }
 
 .tom ul li {
   color: #ffcc00;
+}
+
+.seam ul li {
+  color: #6b6b47;
 }
 
 img {
