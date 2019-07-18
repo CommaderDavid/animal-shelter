@@ -42,3 +42,9 @@ img {
 h1 {
   color: #006622;
 }
+
+@media screen and (max-width: 500px) {
+  body {
+    background-color: #99ff33;
+  }
+}
